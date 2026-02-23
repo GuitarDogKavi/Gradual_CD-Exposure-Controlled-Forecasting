@@ -1,0 +1,123 @@
+PS C:\Users\mpkhd\Desktop\Final_Year_Project_Code\ar4_ar4> python run_ecw_a.py
+
+=== Running C:\Users\mpkhd\Desktop\Final_Year_Project_Code\ar4_ar4\sim1\ecw_a.py ===
+
+
+
+
+Processing test_exposure=50, train_exposure=10
+C:\Users\mpkhd\AppData\Roaming\Python\Python313\site-packages\joblib\externals\loky\process_executor.py:782: UserWarning: A worker stopped while some jobs were given to the executor. This can be caused by a too short worker timeout or by a memory leak.
+  warnings.warn(
+
+
+Finished sim1 in 9202.8 seconds
+
+=== Running C:\Users\mpkhd\Desktop\Final_Year_Project_Code\ar4_ar4\sim2\ecw_a.py ===
+
+
+
+
+Processing test_exposure=50, train_exposure=5
+C:\Users\mpkhd\AppData\Roaming\Python\Python313\site-packages\joblib\externals\loky\process_executor.py:782: UserWarning: A worker stopped while some jobs were given to the executor. This can be caused by a too short worker timeout or by a memory leak.
+  warnings.warn(
+
+
+Finished sim2 in 8770.2 seconds
+
+=== Running C:\Users\mpkhd\Desktop\Final_Year_Project_Code\ar4_ar4\sim3\ecw_a.py ===
+
+
+
+
+Processing test_exposure=50, train_exposure=10
+C:\Users\mpkhd\AppData\Roaming\Python\Python313\site-packages\joblib\externals\loky\process_executor.py:782: UserWarning: A worker stopped while some jobs were given to the executor. This can be caused by a too short worker timeout or by a memory leak.
+  warnings.warn(
+
+
+Finished sim3 in 8919.5 seconds
+
+A-ECW successfully implemented
+PS C:\Users\mpkhd\Desktop\Final_Year_Project_Code\ar4_ar4> 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PS C:\Users\mpkhd\Desktop\Final_Year_Project_Code\ar4_ar7> python run_ecw_a.py
+
+=== Running C:\Users\mpkhd\Desktop\Final_Year_Project_Code\ar4_ar7\sim1\ecw_a.py ===
+
+
+
+
+Processing test_exposure=50, train_exposure=0
+C:\Users\mpkhd\AppData\Roaming\Python\Python313\site-packages\joblib\externals\loky\process_executor.py:782: UserWarning: A worker stopped while some jobs were given to the executor. This can be caused by a too short worker timeout or by a memory leak.
+  warnings.warn(
+
+
+Finished sim1 in 8827.3 seconds
+
+=== Running C:\Users\mpkhd\Desktop\Final_Year_Project_Code\ar4_ar7\sim2\ecw_a.py ===
+
+
+
+
+Processing test_exposure=50, train_exposure=10
+C:\Users\mpkhd\AppData\Roaming\Python\Python313\site-packages\joblib\externals\loky\process_executor.py:782: UserWarning: A worker stopped while some jobs were given to the executor. This can be caused by a too short worker timeout or by a memory leak.
+  warnings.warn(
+
+
+Processing test_exposure=60, train_exposure=30
+Finished sim2 in 9422.4 seconds
+
+=== Running C:\Users\mpkhd\Desktop\Final_Year_Project_Code\ar4_ar7\sim3\ecw_a.py ===
+
+
+
+
+Processing test_exposure=50, train_exposure=5
+C:\Users\mpkhd\AppData\Roaming\Python\Python313\site-packages\joblib\externals\loky\process_executor.py:782: UserWarning: A worker stopped while some jobs were given to the executor. This can be caused by a too short worker timeout or by a memory leak.
+  warnings.warn(
+
+
+Finished sim3 in 10819.6 seconds
+
+A-ECW successfully implemented
+PS C:\Users\mpkhd\Desktop\Final_Year_Project_Code\ar4_ar7> 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
