@@ -59,8 +59,11 @@ This highlights the importance of balancing adaptation and stability in evolving
 
 # References
 Liu, Z., Godahewa, R., Bandara, K., & Bergmeir, C. (2023). Handling Concept Drift in Global Time Series Forecasting (arXiv:2304.01512). arXiv. https://doi.org/10.48550/arXiv.2304.01512
+
 Gama, J., Medas, P., Castillo, G., & Rodrigues, P. (2004). Learning with Drift Detection. In A. L. C. Bazzan & S. Labidi (Eds.), Advances in Artificial Intelligence – SBIA 2004 (Vol. 3171, pp. 286–295). Springer Berlin Heidelberg. https://doi.org/10.1007/978-3-540-28645-5_29
+
 Barros, R. S. M., Cabral, D. R. L., Gonçalves, P. M., & Santos, S. G. T. C. (2017). RDDM: Reactive drift detection method. Expert Systems with Applications, 90, 344–355. https://doi.org/10.1016/j.eswa.2017.08.023
+
 Cavalcante, R. C., & Oliveira, A. L. I. (2015). An approach to handle concept drift in financial time series based on Extreme Learning Machines and explicit Drift Detection. 2015 International Joint Conference on Neural Networks (IJCNN), 1–8. https://doi.org/10.1109/IJCNN.2015.7280721
 
 
